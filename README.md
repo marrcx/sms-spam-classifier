@@ -190,6 +190,9 @@ Das Modell erreicht ungefähr:
 ![Language Switch](screenshots/language_switch.png)
 
 ---
+## Limitations
+
+The model was trained on an English SMS dataset and therefore provides the most reliable predictions for English messages. Predictions for other languages may be less accurate.
 
 ## Was ich gelernt habe
 
